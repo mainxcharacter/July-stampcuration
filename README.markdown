@@ -1,5 +1,5 @@
-# Material Design - Responsive card
+웹기반 월별 발행 우표 큐레이션 프로젝트
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mainxcharacter/pen/gOWGWMK](https://codepen.io/mainxcharacter/pen/gOWGWMK).
+한국우표포탈 https://stamp.epost.go.kr/
+한국우표포탈 블로그 https://blog.naver.com/kstampblog
 
-Responsive material card based on Google Material Color palette in a bootstrap grid.
